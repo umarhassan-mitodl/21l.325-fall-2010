@@ -1,0 +1,65 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Periodic Literature"
+    ]
+  ],
+  "legacy_uid": "d57ed1cc-4896-3d03-0e72-82ac607ba2b8",
+  "instructors": {
+    "content": [
+      "2286868f-6668-7932-16e4-f8ff30cdde47"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0166e03b-b83a-55a2-9468-cde624230d26",
+    "website": "21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010"
+  },
+  "course_title": "Small Wonders: Media, Modernity, and the Moment: Experiments in Time",
+  "hide_download": true,
+  "course_description": "The \"small wonders\" to which our course will attend are moments of present time, depicted in the verbal and visual media of the modern age: newspapers, novels and stories, poems, photographs, films, etc. We will move between visual and verbal media across a considerable span of time, from eighteenth-century poetry and prose fiction to twenty-first century social networking and microblogging sites, and from sculpture to photography, film, and digital visual media. With help from philosophers, contemporary cultural historians, and others, we will begin to think about a media practice largely taken for granted in our own moment.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.325",
+  "course_image_thumbnail": {
+    "content": "5d69ad13-3689-78d9-0872-f0958314a2d6",
+    "website": "21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Presentation Assignments with Examples",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "9e62944e-6ed5-4d51-b005-0e1713730fa5",
+  "site_short_id": "21l.325-fall-2010",
+  "site_url_path": "courses/21l-325-small-wonders-media-modernity-and-the-moment-experiments-in-time-fall-2010",
+  "title": "Course Metadata"
+}
